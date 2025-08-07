@@ -1,5 +1,6 @@
 Adventure Works 
 
-its ana analysis of a cycle compny
+its a analysis of a cycle company which sells cycle , parts, etc 
+
 
 
